@@ -1,5 +1,5 @@
 # IE-chat-gemini
-# Chat with pdf
+## Chat with pdf
 
 ## Steps to Run the Project
 
